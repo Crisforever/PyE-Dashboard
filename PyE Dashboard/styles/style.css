@@ -3,7 +3,6 @@
 :root {
 
     background-image: url(../assets/deer-forest.jpg);
-    background-size: 100%;
     background-repeat: no-repeat;
     font-family: 'Open Sans', sans-serif;
     --step--2: clamp(0.69rem, calc(0.59rem + 0.52vw), 0.96rem);
